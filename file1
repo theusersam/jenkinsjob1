@@ -1,3 +1,4 @@
 echo "this is git test"
 echo "pull successful"
+echo "cron job added every minute to the code"
 
